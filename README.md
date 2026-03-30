@@ -1,4 +1,3 @@
-Aqui está o código completo para você copiar:
 html<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
